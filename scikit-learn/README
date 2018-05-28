@@ -1,1 +1,1 @@
-This folder includes basic Scikit-Learn models (train, score), and statistics (accuracy, model size, and inference time), for classifying MNIST.
+This folder includes different Scikit-Learn models (train, score), and statistics (accuracy, model size, and inference time), for classifying MNIST.
