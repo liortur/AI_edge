@@ -1,0 +1,1 @@
+this folder includes basic performance statistics (accuracy, model size, and inference time) of scikit-learn models for classifying MNIST.
